@@ -1,2 +1,2 @@
-# Xss
-In this project i will explore Xss
+# XSS
+In this project i will explore XSS
